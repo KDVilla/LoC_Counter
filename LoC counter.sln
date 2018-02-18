@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoC counter", "LoC counter\LoC counter.vcxproj", "{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Debug|x64.ActiveCfg = Debug|x64
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Debug|x64.Build.0 = Debug|x64
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Debug|x86.Build.0 = Debug|Win32
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Release|x64.ActiveCfg = Release|x64
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Release|x64.Build.0 = Release|x64
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Release|x86.ActiveCfg = Release|Win32
+		{D9D3FE95-162E-4648-A19C-D6039A2E0ECB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B0AD12-1C0D-4589-97F8-9D81B5D23D55}
+	EndGlobalSection
+EndGlobal
